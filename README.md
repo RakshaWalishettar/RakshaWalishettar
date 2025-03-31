@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshawalishettar&label=Profile%20views&color=0e75b6&style=flat" alt="rakshawalishettar" /> </p>
 
-- 🔭 I’m completed on **Smart Home Shield:IOT driven real time threat protection**
+- 🔭 I have completed project on **Smart Home Shield:IOT driven real time threat protection**
 
 - 🌱 I’m currently learning **Java Full Stack**
 
